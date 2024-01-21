@@ -21,7 +21,6 @@ This project is a real-time, interactive chatbot powered by Tkinter and BardAPI.
 ## Contributing
 We welcome contributions! Please see our contributing guidelines for more details.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 <img src="BardAI_ChatBot/ChatBot.png" alt="Description of the image" width="600" height="500">
