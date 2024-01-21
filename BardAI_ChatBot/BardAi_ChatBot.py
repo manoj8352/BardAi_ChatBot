@@ -11,7 +11,7 @@ FONT = "Helvetica 14"
 FONT_BOLD = "Helvetica 13 bold"
 
 #bardapi key 
-os.environ['_BARD_API_KEY']="ewiJSBrCbx3ucuwdMpU3RJItjkMjc0_LoH9_CAM7vldVwc8LRwQYIW84B6eF6Bs3YlofRg."
+os.environ['_BARD_API_KEY']="Use yours BardAi apikey"
 
 def responsive_api(prompt):
     message=Bard().get_answer(prompt)["content"]
